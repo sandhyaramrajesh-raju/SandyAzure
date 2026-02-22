@@ -1,0 +1,9 @@
+{
+	"name": "SandyAzureDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de2d54c0-7979-4ddd-84dd-234a4943a9c5",
+		"tenantId": "c5c56753-d4af-4b8b-ab8b-f8593fb28a8c"
+	}
+}
